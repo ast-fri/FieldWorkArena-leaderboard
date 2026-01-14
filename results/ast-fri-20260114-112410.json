@@ -1,0 +1,30 @@
+{
+  "participants": {
+    "agent": "019bb5bd-c618-74f3-a045-936b3a46d746"
+  },
+  "results": [
+    {
+      "target": "custom",
+      "total_tasks": 3,
+      "total_score": 2.0,
+      "score_rate": 0.6666666666666666,
+      "task_results": [
+        {
+          "task_id": "1.1.0024",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "2.1.0075",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "4.1.2001",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        }
+      ]
+    }
+  ]
+}
