@@ -1,6 +1,6 @@
 [green_agent]
 agentbeats_id = ""
-env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" HF_TOKEN = "${HF_TOKEN}"}
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", HF_TOKEN = "${HF_TOKEN}"}
 
 [[participants]]
 agentbeats_id = ""
