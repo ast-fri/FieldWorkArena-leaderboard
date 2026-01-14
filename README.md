@@ -86,14 +86,9 @@ Specifies the target category of tasks to run. Available options:
 - `"custom"`: Runs a demo task (selects specific tasks from variable targets)
 - `"all"`: Runs all available task categories
 
-### token
-Your FieldWorkArena-authenticated Hugging Face access token. This token is required to access the FieldWorkArena dataset. 
-
-In `scenario.toml`, configure it to use the `HF_TOKEN` environment variable from GitHub Secrets:
 ```toml
 [config]
 target = "factory"
-token = "${HF_TOKEN}"
 ```
 
 **Note:** The `${HF_TOKEN}` value will be automatically replaced with your Hugging Face access token from GitHub Secrets during GitHub Actions workflow execution. See the [Prerequisites](#set-up-github-secrets) section for instructions on setting up this secret.
