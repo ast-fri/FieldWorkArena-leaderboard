@@ -1,0 +1,11 @@
+[green_agent]
+agentbeats_id = "019bb558-37b5-7e32-a90a-414338612a7a"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", HF_TOKEN = "${HF_TOKEN}"}
+
+[[participants]]
+agentbeats_id = "019bb5bd-c618-74f3-a045-936b3a46d746"
+name = "agent"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
+
+[config]
+target = "custom"
