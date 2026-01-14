@@ -10,4 +10,4 @@ env = {}
 
 [config]
 target = "custom"
-token="${HF_TOKEN}"
+token=${HF_TOKEN}
