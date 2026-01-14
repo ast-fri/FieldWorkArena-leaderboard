@@ -1,0 +1,40 @@
+{
+  "participants": {
+    "agent": "019bb5bd-c618-74f3-a045-936b3a46d746"
+  },
+  "results": [
+    {
+      "target": "retail",
+      "total_tasks": 5,
+      "total_score": 2.0,
+      "score_rate": 0.4,
+      "task_results": [
+        {
+          "task_id": "4.1.2001",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "4.1.2002",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "4.1.2003",
+          "score": 1.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "4.1.2004",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        },
+        {
+          "task_id": "4.1.2005",
+          "score": 0.0,
+          "eval_func": "fuzzy_match"
+        }
+      ]
+    }
+  ]
+}
