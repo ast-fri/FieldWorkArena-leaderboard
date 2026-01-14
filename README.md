@@ -91,7 +91,14 @@ Specifies the target category of tasks to run. Available options:
 target = "factory"
 ```
 
-**Note:** The `${HF_TOKEN}` value will be automatically replaced with your Hugging Face access token from GitHub Secrets during GitHub Actions workflow execution. See the [Prerequisites](#set-up-github-secrets) section for instructions on setting up this secret.
+**⚠️ Important Note on Task Availability:**
+Due to the use of A2A FileWithBytes for hosting benchmark data from GreenAgent, the AgentBeats environment currently has limitations on handling large-capacity benchmark data. The available task counts are:
+- **factory**: 79 tasks available (out of 176 total tasks)
+- **warehouse**: 162 tasks available (out of 264 total tasks)
+- **retail**: 5 tasks available (out of 446 total tasks)
+
+Additional tasks will be enabled as A2A updates are released. For the complete version with all tasks, please visit [FieldWorkArena](https://github.com/FujitsuResearch/FieldWorkArena/).
+
 
 ## Requirements for participant agent
 
