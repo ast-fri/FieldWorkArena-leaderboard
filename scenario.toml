@@ -8,4 +8,4 @@ name = "agent"
 env = {}
 
 [config]
-target = "custom"
+target = "all"

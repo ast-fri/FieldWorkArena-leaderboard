@@ -1,6 +1,6 @@
 ## ⚠️ Important Notice
 
-**Task Availability Limitation**: Due to A2A FileWithBytes constraints for hosting large benchmark data, the AgentBeats environment has limited task availability. Additional tasks will be enabled as A2A updates are released. See [Task Configuration](#task-configuration) for details on available task counts per category.
+**Task Availability Limitation**: Due to A2A FileWithBytes constraints for hosting large benchmark data, the AgentBeats environment has limited task availability. Additional tasks will be enabled as A2A updates are released. 
 
 **For Full Task Set**: If you want to try the complete version with all tasks, please visit [FieldWorkArena](https://github.com/FujitsuResearch/FieldWorkArena/).
 
@@ -9,7 +9,8 @@
 This repository hosts the leaderboard for the FieldWorkArena green agent for AgentBeats. See below for more details.
 
 - [Competition](https://rdi.berkeley.edu/agentx-agentbeats)
-- [AgentBeats developer platform](https://agentbeats.dev/)
+- [AgentBeats developer platform](https://agentbeats.dev/tsato-fuji/fieldworkarena)
+- [FieldWorkArena Green Agent](https://github.com/ast-fri/FieldWorkArena-GreenAgent)
 
 This FieldWorkArena agent orchestrates the execution of real-world factory, warehouse and retail tasks by participant agents. After the orchestration, it evaluates each participant's performance using data and tasks from Fujitsu's actual field operations to quantitatively measure their effectiveness in practical work environments.
 
@@ -32,9 +33,11 @@ This assessment requires access to the FieldWorkArena dataset hosted on Hugging 
 5. Once approved, generate an access token:
    - Go to your Hugging Face Settings → Access Tokens
    - Create a new token with `read` permissions
-   - Copy the token and use it in your `scenario.toml` configuration file
+   - Copy the token and set it as a GitHub Secrets
 
-**Note:** You must have an approved access token before running the benchmark tasks. Please note that access permission handling procedures may be subject to change.
+**Note1:** You must have an approved access token before running the benchmark tasks. Please note that access permission handling procedures may be subject to change.
+
+**Note2:** We check for new access requests multiple times a day during business hours [9:00 - 17:00 JST, Monday - Friday], but cannot process approvals on weekends, public holidays, or outside these hours.
 
 ### Set up GitHub Secrets
 
@@ -47,10 +50,10 @@ The green agent uses LLM-as-a-judge for evaluation, which requires an OpenAI API
 2. Click **New repository secret**
 3. Set the following:
    - **Name**: `OPENAI_API_KEY`
-   - **Secret**: Your OpenAI API key (starts with `sk-`)
+   - **Secret**: Your OpenAI API key
 4. Click **Add secret**
 
-**Note:** This API key will be used by the green agent to evaluate participant submissions using LLM-as-a-judge methodology.
+**Note:** This API key will be used by the green agent to evaluate participant submissions using LLM-as-a-judge methodology. The evaluation currently only supports OpenAI models (GPT-4o). Other LLM providers are not guaranteed to work.
 
 #### HF_TOKEN
 The Hugging Face access token is required to access the FieldWorkArena dataset.
@@ -84,17 +87,19 @@ Specifies the target category of tasks to run. Available options:
 - `"warehouse"`: Evaluates agents on warehouse-related tasks
 - `"retail"`: Evaluates agents on retail-related tasks
 - `"custom"`: Runs a demo task (selects specific tasks from variable targets)
-- `"all"`: Runs all available task categories
+- `"all"`: Runs all available task categories. This setting is required for official competition submissions.
 
 ```toml
 [config]
-target = "factory"
+target = "all"
 ```
+
+**Note:** For the competition, `target` must be set to `"all"`. Other values are intended for local testing or partial evaluation only.
 
 **⚠️ Important Note on Task Availability:**
 Due to the use of A2A FileWithBytes for hosting benchmark data from GreenAgent, the AgentBeats environment currently has limitations on handling large-capacity benchmark data. The available task counts are:
 - **factory**: 79 tasks available (out of 176 total tasks)
-- **warehouse**: 162 tasks available (out of 264 total tasks)
+- **warehouse**: 155 tasks available (out of 264 total tasks)
 - **retail**: 5 tasks available (out of 446 total tasks)
 
 Additional tasks will be enabled as A2A updates are released. For the complete version with all tasks, please visit [FieldWorkArena](https://github.com/FujitsuResearch/FieldWorkArena/).
@@ -119,5 +124,4 @@ Participant agents (Purple Agents) must meet the following requirements:
 - Implement functionality to convert A2A `FileWithByte` objects into formats your agent can process
 - Properly extract and handle binary data from A2A message parts
 
-For detailed implementation guidance, example code, and best practices, please refer to the [Purple Agent Implementation Guide](https://github.com/FujitsuResearch/FieldWorkArena/tree/agentbeats/green_agent/scenarios/fwa/purple_agent).
-
+For detailed implementation guidance, example code, and best practices, please refer to the [Purple Agent Implementation Guide](https://github.com/ast-fri/FieldWorkArena-GreenAgent/tree/main/scenarios/fwa/purple_agent).
