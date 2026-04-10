@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/ast-fri/fieldworkarena-greenagent-fwa-server@sha256:cc5934f11f46c391c738c1f7236506c1d3615588bbf75346fda620c365f02f62",
+    "agent": "ghcr.io/ast-fri/fieldworkarena-greenagent-fwa-test-purple-agent@sha256:455d91aee85012ddb189f479a3d855d53be5145ab3b620eed3bd60a27e9612c1",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-04-10T09:17:02Z",
+  "github_actions": {
+    "run_url": "https://github.com/tsato-fuji/FieldWorkArena-leaderboard/actions/runs/24235779530",
+    "run_logs_url": "https://api.github.com/repos/tsato-fuji/FieldWorkArena-leaderboard/actions/runs/24235779530/logs",
+    "ref": "refs/heads/tsato-fuji-patch-2",
+    "sha": "84eb27be2221f86c05776b558fa5aa03caa41a88",
+    "repository_url": "https://github.com/tsato-fuji/FieldWorkArena-leaderboard",
+    "workflow_ref": "tsato-fuji/FieldWorkArena-leaderboard/.github/workflows/run-scenario.yml@refs/heads/tsato-fuji-patch-2",
+    "workflow_sha": "84eb27be2221f86c05776b558fa5aa03caa41a88"
+  }
+}
