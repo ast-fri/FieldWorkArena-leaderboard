@@ -37,8 +37,6 @@ This assessment requires access to the FieldWorkArena dataset hosted on Hugging 
 
 **Note1:** You must have an approved access token before running the benchmark tasks. Please note that access permission handling procedures may be subject to change.
 
-**Note2:** We check for new access requests multiple times a day during business hours [9:00 - 17:00 JST, Monday - Friday], but cannot process approvals on weekends, public holidays, or outside these hours.
-
 ### Set up GitHub Secrets
 
 The benchmark requires two secrets to be configured in your GitHub repository:
