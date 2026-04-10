@@ -1,0 +1,1210 @@
+{
+  "participants": {
+    "agent": "019bb5bd-c618-74f3-a045-936b3a46d746"
+  },
+  "results": [
+    {
+      "target": "all",
+      "total_tasks": 239,
+      "total_score": 0.0,
+      "score_rate": 0.0,
+      "task_results": [
+        {
+          "task_id": "1.1.0024",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0025",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0026",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0027",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0028",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0029",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_Translation_FQ510-042_Wearing_Gloves.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0030",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0031",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0032",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0033",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Table_2_in_English.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0034",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Table_2_in_English.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0035",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Warehouse_Management_Chiefs'_Manual.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0036",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Warehouse_Management_Chiefs'_Manual.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0037",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Table_2_in_English.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0038",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Warehouse_Management_Chiefs'_Manual.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0039",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/For_the_safe_operation_of_forklifts.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0040",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/For_the_safe_operation_of_forklifts.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0041",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/For_the_safe_operation_of_forklifts.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0042",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/For_the_safe_operation_of_forklifts.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "1.1.0043",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Table_2_in_English.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0001",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0002",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_007.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_010.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0006",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0007",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0008",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0009",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_007.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0010",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_010.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0011",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0012",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0013",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0014",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_007.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0015",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_010.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0016",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0017",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0018",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0019",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_007.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0020",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_010.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0021",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_001.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0022",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_003.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0023",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_trim0_f1_005.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0024",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_001.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0025",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_010.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0051",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/External_Dock_01_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0052",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_39.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0053",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0054",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0055",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0056",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/External_Dock_00_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0057",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_46.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0058",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0059",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0060",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0061",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/External_Dock_01_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0062",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_39.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0063",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0064",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0065",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0066",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/External_Dock_00_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0067",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_46.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0068",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0069",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0070",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0071",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/External_Dock_01_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0072",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_46.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0073",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0074",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.1.0075",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0001",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_03_06.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0002",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_02_39.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_01_28.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_00_33.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00_14.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0006",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_16.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0007",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_15.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0008",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0009",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_04_44.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0010",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0011",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_32.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0012",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_01_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0013",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_38.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0014",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_28.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0015",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_50.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0017",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0018",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_51.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0019",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0020",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_02_21.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0021",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/External_Dock_00_01.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0022",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_04_23.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0023",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_04_44.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0024",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0025",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_03_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0046",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_53.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0047",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_28.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0048",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_46.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0050",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0051",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_53.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0052",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_28.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0053",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_46.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0055",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0056",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_03_28.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0057",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_41.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0058",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_33.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0059",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_02_17.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0060",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_05_00.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0061",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_03_28.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0062",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_41.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0063",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_33.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0064",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_02_17.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0065",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_05_00.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0066",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_53.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0067",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_38.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0068",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_27.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0069",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0070",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_37.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0071",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_53.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0072",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_38.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0073",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_27.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0074",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0075",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_37.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0076",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0077",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_00_14.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0078",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_32.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0079",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0080",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_47.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0081",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0082",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_00_14.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0083",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_32.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0084",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0085",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_47.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0086",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_03_06.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0087",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_02_39.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0088",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_01_28.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0089",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_00_33.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0090",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00_14.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0091",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_02_16.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0092",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_03_15.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0095",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0096",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_32.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0097",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_7_Front1080p_2023_09_27_8AM_57_11_H_01_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0098",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_00_38.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0099",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_01_51.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0100",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_50.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0102",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0103",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_02_02.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0104",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Distribution_Front1080p_2023_09_27_8AM_55_25_H_02_21.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0105",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_46.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0106",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/External_Dock_00_01.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0107",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_04_23.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0108",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_05_00.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0109",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_00_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0110",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_03_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0111",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/External_Dock_00_04.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0112",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Aisle_5_Rear1080p_2023_09_27_7AM_41_01_H_04_42.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0113",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch1080p_2023_09_27_8AM_13_00_H_00_45.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0114",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_03_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.2.0115",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Products_Dispatch_2023_09_27_8AM_13_00_H_04_31.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0011",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_00_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0012",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_01_38.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0013",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_04_14.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0014",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_05_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0015",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_11_27.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0016",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_00_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0017",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_01_38.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0018",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_04_14.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0019",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_05_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0020",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Center6_Solder_washing_11_27.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0021",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0022",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0023",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_13_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0024",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C6_197_3_09.30.08_13_48.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0025",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_TANA_201_3_09.30.08_09_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0026",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0027",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0028",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_13_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0029",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C6_197_3_09.30.08_13_48.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0030",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_TANA_201_3_09.30.08_09_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0041",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0042",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0043",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_13_55.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0044",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C6_197_3_09.30.08_13_48.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0045",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_TANA_201_3_09.30.08_09_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0046",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_29_56.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0047",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_47_25.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0048",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_05_54.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0049",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_30_00.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0050",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_TANA_201_3_09.30.08_12_23.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0051",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_00_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0052",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_02_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0054",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_07_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0056",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_03_06.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0057",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_04_54.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0058",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_07_36.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0059",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_08_09.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0060",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C5YS_189_3_09.30.08_14_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0071",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_29_56.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0072",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_47_25.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0073",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_199_3_09.42.25_51_35.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0074",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_05_54.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0075",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_30_00.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0076",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4S_200_3_09.41.46_43_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0083",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_00_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0084",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_02_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0085",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_06_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0086",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_03_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0087",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_08_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0088",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_03_26.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0089",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_04_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0090",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_04_22.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0091",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_05_20.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "2.3.0092",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_06_58.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.3.0003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.3.0004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.3.0005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_00_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.3.0007",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_00_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.4.0003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_09_05.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.4.0004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.4.0005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_00_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "3.4.0007",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_00_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.0035",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Rear_Laneway1080p_2023_09_27_9AM_01_04_H_00_53.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.0036",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_28.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.0037",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_46.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.0038",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/Jacket_Vest_Despatch_00_53.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.0039",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/WH_Spares_Receiving1080p_2023_09_27_8AM_10_56_H_00_30.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0001",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0002",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/English_FQ510-050_Handa_Tank_Cleaning.pdf'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0026",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C3_187_3_09.30.10_05_10.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0028",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/North1_C4N_188_3_09.30.08_00_18.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.2.0030",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/image/West5_G210_ZENTAI_00_40.jpg'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.2001",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Store_Manual_A.txt'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.2002",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Store_Manual_A.txt'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.2003",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Store_Manual_A.txt'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.2004",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Store_Manual_A.txt'. Status code: 401"
+        },
+        {
+          "task_id": "4.1.2005",
+          "score": 0.0,
+          "error": "Invalid access token or insufficient permissions for file 'data/document/Store_Manual_A.txt'. Status code: 401"
+        }
+      ]
+    }
+  ]
+}
